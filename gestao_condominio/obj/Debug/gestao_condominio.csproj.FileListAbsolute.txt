@@ -1,0 +1,435 @@
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\gestao_condominio.exe.config
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\gestao_condominio.exe
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\gestao_condominio.pdb
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.csprojAssemblyReference.cache
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.menu.resources
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Properties.Resources.resources
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.csproj.GenerateResource.cache
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.csproj.CoreCompileInputs.cache
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.exe
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.pdb
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\netstandard.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.AppContext.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Specialized.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Console.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Data.Common.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Globalization.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.Compression.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.Pipes.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.Expressions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.Parallel.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.Queryable.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Http.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.NameResolution.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Ping.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Requests.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Security.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Sockets.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.WebSockets.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ObjectModel.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Reflection.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Resources.Reader.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Resources.Writer.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Handles.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Claims.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Principal.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.SecureString.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Text.Encoding.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Thread.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Timer.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XDocument.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XPath.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.Bulk.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Remotion.Linq.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Buffers.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Immutable.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Interactive.Async.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Memory.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ValueTuple.dll
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.pdb
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\Remotion.Linq.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Buffers.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Immutable.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Interactive.Async.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Memory.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ValueTuple.xml
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.exe.config
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.csproj.CopyComplete
+C:\Users\umarc\Desktop\Sistema Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.CadCliente.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\gestao_condominio.exe.config
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\gestao_condominio.exe
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\gestao_condominio.pdb
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\netstandard.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.AppContext.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Console.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Data.Common.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Globalization.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.Compression.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Http.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Ping.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Requests.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Security.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ObjectModel.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Reflection.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Claims.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.Principal.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\MySql.Data.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.Bulk.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Remotion.Linq.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Buffers.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Memory.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ValueTuple.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Google.Protobuf.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Renci.SshNet.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\MySql.Data.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.pdb
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.pdb
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Remotion.Linq.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Buffers.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Interactive.Async.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Memory.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\System.ValueTuple.xml
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.csprojAssemblyReference.cache
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.exe.config
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.CadMorador.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.menu.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Properties.Resources.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.csproj.GenerateResource.cache
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.csproj.CopyComplete
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.exe
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.pdb
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.CadAutomovel.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.CadAtivo.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.CadMudanca.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.CadUsuario.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.CadDespesas.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.CadControleEstoque.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.CadReceitas.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.ItemEstoque.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.EnviaEmail.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.frmLogin.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.CadOrcamento.resources
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\EnvDTE.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\stdole.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ulisses\Desktop\Sistema_Condominio\gestao_condominio\gestao_condominio\obj\Debug\gestao_condominio.Forms.Relatorios.resources

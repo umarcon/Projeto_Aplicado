@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace gestao_condominio.Forms
 {
-    public partial class ItemEstoque : Form
+    public partial class CadItemEstoque : Form
     {
-        public ItemEstoque()
+        public CadItemEstoque()
         {
             InitializeComponent();
         }

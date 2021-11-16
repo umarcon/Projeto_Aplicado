@@ -1,6 +1,6 @@
 ﻿namespace gestao_condominio.Forms
 {
-    partial class ItemEstoque
+    partial class CadItemEstoque
     {
         /// <summary>
         /// Required designer variable.

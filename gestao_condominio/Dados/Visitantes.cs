@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace gestao_condominio.Dados
 {
-    public class Visitantes
+    public class CadVisitantes
     {
         public int morador { get; set; }
 

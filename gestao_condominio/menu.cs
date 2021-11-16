@@ -1,4 +1,5 @@
-﻿using gestao_condominio.Forms;
+﻿using gestao_condominio.Dados;
+using gestao_condominio.Forms;
 using Npgsql;
 using System;
 using System.Collections.Generic;
@@ -63,7 +64,7 @@ namespace gestao_condominio
 
         private void itemDeEstoqueToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ItemEstoque form = new ItemEstoque();
+            CadItemEstoque form = new CadItemEstoque();
 
             form.Show();
         }
@@ -99,6 +100,13 @@ namespace gestao_condominio
         private void relatóriosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Relatorios form = new Relatorios();
+
+            form.Show();
+        }
+
+        private void visitantesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CadVisitante form = new CadVisitante();
 
             form.Show();
         }

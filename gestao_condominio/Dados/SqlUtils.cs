@@ -22,7 +22,7 @@ namespace gestao_condominio
         //Usuário do banco de dados
         private const string SqlUser = "root";
         //Senha do usuário
-        private const string SqlPass = "marcon13";
+        private const string SqlPass = "123456";
         //Database que irá se conectar
         private const string SqlDb = "gestao_condominio";
 
@@ -67,6 +67,36 @@ namespace gestao_condominio
                     mConn.Close();
 
                     MessageBox.Show("Morador cadastrado com sucesso!");
+
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+                mConn.Close();
+            }
+        }
+
+        public static void InsertVisitantes(List<CadVisitantes> result)
+        {
+            try
+            {
+                Connect();
+
+                foreach (var item in result)
+                {
+                    var data = item.data_visita.Value.Year + "-" + item.data_visita.Value.Month + "-" + item.data_visita.Value.Day;
+                    var sql = string.Format(@"insert into visitantes (nome, morador_idmorador, data_visita, rg)
+                               values ('{0}', {1}, '{2}', '{3}');",
+                               item.nome, item.morador, data, item.rg);
+
+                    MySqlCommand command = new MySqlCommand(sql, mConn);
+
+                    command.ExecuteNonQuery();
+
+                    mConn.Close();
+
+                    MessageBox.Show("Visitante cadastrado com sucesso!");
 
                 }
             }
@@ -199,9 +229,9 @@ namespace gestao_condominio
             }
         }
 
-        public static List<Visitantes> GetVisitantes(string dataDe, string dataAte)
+        public static List<CadVisitantes> GetVisitantes(string dataDe, string dataAte)
         {
-            var listResult = new List<Visitantes>();
+            var listResult = new List<CadVisitantes>();
 
             try
             {
@@ -216,7 +246,7 @@ namespace gestao_condominio
                 {
                     while (dr.Read())
                     {
-                        var result = new Visitantes();
+                        var result = new CadVisitantes();
 
                         result.morador = (int)dr["morador_idmorador"];
                         result.nome = (String)dr["nome"];

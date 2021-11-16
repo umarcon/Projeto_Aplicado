@@ -232,6 +232,12 @@
     <Compile Include="Forms\CadUsuario.Designer.cs">
       <DependentUpon>CadUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\CadVisitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CadVisitante.Designer.cs">
+      <DependentUpon>CadVisitante.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\EnviaEmail.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -244,11 +250,11 @@
     <Compile Include="Forms\frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\ItemEstoque.cs">
+    <Compile Include="Forms\CadItemEstoque.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\ItemEstoque.Designer.cs">
-      <DependentUpon>ItemEstoque.cs</DependentUpon>
+    <Compile Include="Forms\CadItemEstoque.Designer.cs">
+      <DependentUpon>CadItemEstoque.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Relatorios.cs">
       <SubType>Form</SubType>
@@ -294,14 +300,17 @@
     <EmbeddedResource Include="Forms\CadUsuario.resx">
       <DependentUpon>CadUsuario.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CadVisitante.resx">
+      <DependentUpon>CadVisitante.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\EnviaEmail.resx">
       <DependentUpon>EnviaEmail.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\ItemEstoque.resx">
-      <DependentUpon>ItemEstoque.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\CadItemEstoque.resx">
+      <DependentUpon>CadItemEstoque.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Relatorios.resx">
       <DependentUpon>Relatorios.cs</DependentUpon>

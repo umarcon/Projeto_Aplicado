@@ -49,6 +49,7 @@
             this.envioDeComunicadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.orçamentosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.relatóriosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.visitantesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -69,6 +70,7 @@
             this.cadastrosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.moradoresToolStripMenuItem,
             this.automóveisToolStripMenuItem,
+            this.visitantesToolStripMenuItem,
             this.ocorrênciasToolStripMenuItem,
             this.usuáriosToolStripMenuItem,
             this.ativoFixoToolStripMenuItem,
@@ -177,13 +179,13 @@
             // churrasqueiraToolStripMenuItem
             // 
             this.churrasqueiraToolStripMenuItem.Name = "churrasqueiraToolStripMenuItem";
-            this.churrasqueiraToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.churrasqueiraToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.churrasqueiraToolStripMenuItem.Text = "Churrasqueira";
             // 
             // salãoDeFestaToolStripMenuItem
             // 
             this.salãoDeFestaToolStripMenuItem.Name = "salãoDeFestaToolStripMenuItem";
-            this.salãoDeFestaToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.salãoDeFestaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.salãoDeFestaToolStripMenuItem.Text = "Salão de Festa";
             // 
             // gerencialToolStripMenuItem
@@ -216,6 +218,13 @@
             this.relatóriosToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
             this.relatóriosToolStripMenuItem.Text = "Relatórios";
             this.relatóriosToolStripMenuItem.Click += new System.EventHandler(this.relatóriosToolStripMenuItem_Click);
+            // 
+            // visitantesToolStripMenuItem
+            // 
+            this.visitantesToolStripMenuItem.Name = "visitantesToolStripMenuItem";
+            this.visitantesToolStripMenuItem.Size = new System.Drawing.Size(181, 22);
+            this.visitantesToolStripMenuItem.Text = "Visitantes";
+            this.visitantesToolStripMenuItem.Click += new System.EventHandler(this.visitantesToolStripMenuItem_Click);
             // 
             // menu
             // 
@@ -257,6 +266,7 @@
         private System.Windows.Forms.ToolStripMenuItem envioDeComunicadosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem orçamentosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem relatóriosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem visitantesToolStripMenuItem;
     }
 }
 
